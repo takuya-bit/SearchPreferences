@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    width:100%;
+}
+
+header{
+    width: 100%;
+    padding:20px;
+    background:darkgray;
+    color:white;
+    font-size: 20px;
+}
+main{
+    width:100%;
+    padding:30px;
+    background: #CCC;
+}
